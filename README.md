@@ -4,4 +4,4 @@
 ##### Kaggle source link: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 #### Data is super clean as I focus on EDA, feature engineering and machine learning part
 ### Here is how data looks like
-![Load data to begin with](imgdocs/loaddata.png)
+![Load data to begin with](https://github.com/JesseyZ/Machine-Learning---Hotel-Booking-Cancellation/imgdocs/loaddata.jpg)
