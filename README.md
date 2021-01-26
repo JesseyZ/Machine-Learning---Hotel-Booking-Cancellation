@@ -3,5 +3,3 @@
 ##### Original source link: https://www.sciencedirect.com/science/article/pii/S2352340918315191
 ##### Kaggle source link: https://www.kaggle.com/jessemostipak/hotel-booking-demand
 #### Data is super clean as I focus on EDA, feature engineering and machine learning part
-### Here is how data looks like
-![ScreenShot](loaddata2.jpg)
