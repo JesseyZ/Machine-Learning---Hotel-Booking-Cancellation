@@ -6,6 +6,9 @@
 
 * This is how dataset looks like
 ![This is how dataset looks like](https://github.com/JesseyZ/Machine-Learning---Hotel-Booking-Cancellation/blob/main/imgdocs/Loaddata2.jpg)
-#### Check out the detailed information for each columns
+* Check out the detailed information for each columns
 ![column details](https://github.com/JesseyZ/Machine-Learning---Hotel-Booking-Cancellation/blob/main/imgdocs/check%20columns.jpg)
+# EDA
+* Explore the cancellation ratio in the dataset
+![cancellation ratio](https://github.com/JesseyZ/Machine-Learning---Hotel-Booking-Cancellation/blob/main/imgdocs/cancellation%20ratio.jpg)
 
